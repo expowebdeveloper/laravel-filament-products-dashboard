@@ -69,11 +69,12 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-Test Cases:
+
 
 1. Clone project
 2. Install dependencies
 3. 
 
-php artisan test .\tests\Feature\AdminCannotCreateProductTest.php
-php artisan test .\tests\Feature\UserCannotCreateProductTest.php
+Test Cases:
+1. php artisan test .\tests\Feature\AdminCannotCreateProductTest.php
+2. php artisan test .\tests\Feature\UserCannotCreateProductTest.php
